@@ -27,26 +27,19 @@ a tornam uma profissional arrojada pronta para grandes desafios. - G. K. Chester
       </p>
       
       <p> Minhas competências </p>
-      <ul>
-        <li>
-          <p>Spring Boot</p>
-        </li>
-         <li>
-          <p>API REST</p>
-        </li>
-         <li>
-          <p>Junit</p>
-        </li>
-         <li>
-          <p>Mongo DB</p>
-        </li>
-         <li>
-          <p>Typescript</p>
-        </li>
-         <li>
-          <p>Angular 14 Framework</p>
-        </li>
-      </ul>
+      
+      <p>Spring Boot</p>
+
+      <p>API REST</p>
+
+      <p>Junit</p>
+
+      <p>Mongo DB</p>
+
+      <p>Typescript</p>
+
+      <p>Angular 14 Framework</p>
+
       <h3>Other places you can find me</h3>
       <ul>
         <li>
