@@ -14,39 +14,7 @@ cotidiano os princípios da qualidade total, das quais se vale para reduzir desp
 ganhos e tornar-se um profissional voltada a atender as expectativas de seu empregador.
 Auto motivada, de natureza alegre, teve educação familiar rígida, profissional de visão e focada
 em resultados, possui formação do ensino médio completo. Educação e treinamentos extensivos
-a tornam uma profissional arrojada pronta para grandes desafios. - G. K. Chesterton
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
-    </td>
-    <td style="border: 0";>
-     
-      <h3> 💻 Minhas competências </h3>
-      <ul>
-        <li>
-          <p> Java 8</p>
-        </li>
-        <li>
-          <p> API REST </p>
-        </li>
-        <li>
-          <p> Junit</p>
-        </li>
-        <li>
-          <p> Mongo DB</p>
-        </li>
-        <li>
-          <p> Angular 14</p>
-        </li>
-        <li>
-          <p> Typescript</p>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+a tornam uma profissional arrojada pronta para grandes desafios.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilabarpp&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilabarpp&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camilabarpp&theme=nord_dark) |
 | :-: | :-: | :-: |
