@@ -19,31 +19,29 @@ a tornam uma profissional arrojada pronta para grandes desafios. - G. K. Chester
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://thumbs.dreamstime.com/b/blonde-woman-avatar-isolated-faceless-female-cartoon-character-portrait-flat-blonde-woman-avatar-isolated-faceless-female-cartoon-122544369.jpg" />
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
-      <p>
-        💻 Atualmente eu estou estagiando na Forttiori IT com Desenvolvimento JAVA | Angular <a/>.
-      </p>
-      
-      <p> Minhas competências </p>
-      
-      <p>Spring Boot</p>
-
-      <p>API REST</p>
-
-      <p>Junit</p>
-
-      <p>Mongo DB</p>
-
-      <p>Typescript</p>
-
-      <p>Angular 14 Framework</p>
-
-      <h3>Other places you can find me</h3>
+     
+      <h3> 💻 Minhas competências </h3>
       <ul>
         <li>
-          📬 <a href=mailto:milabarpp5@gmail.com>Contact-me on email</a>
+          <p> Java 8</p>
+        </li>
+        <li>
+          <p> API REST </p>
+        </li>
+        <li>
+          <p> Junit</p>
+        </li>
+        <li>
+          <p> Mongo DB</p>
+        </li>
+        <li>
+          <p> Angular 14</p>
+        </li>
+        <li>
+          <p> Typescript</p>
         </li>
       </ul>
     </td>
