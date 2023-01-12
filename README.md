@@ -8,12 +8,7 @@
 
 </h4>
 
-Seu espírito de equipe e versatilidade são multiplicadores. Desenvolve e aplica em seu
-cotidiano os princípios da qualidade total, das quais se vale para reduzir desperdícios, aumentar
-ganhos e tornar-se um profissional voltada a atender as expectativas de seu empregador.
-Auto motivada, de natureza alegre, teve educação familiar rígida, profissional de visão e focada
-em resultados, possui formação do ensino médio completo. Educação e treinamentos extensivos
-a tornam uma profissional arrojada pronta para grandes desafios.
+Estudante de Análise e desenvolvimento de sistemas, com 9 meses de experiência em estágio na Forttiori IT, onde adquiri conhecimento em MongoDB, SPRING BOOT, Junit 5, API REST e TYPESCRIPT, além de habilidades em desenvolvimento de software utilizando Angular 14 e JAVA 8. Procurando uma oportunidade para aplicar meus conhecimentos e habilidades em um ambiente de trabalho desafiador.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilabarpp&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilabarpp&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camilabarpp&theme=nord_dark) |
 | :-: | :-: | :-: |
