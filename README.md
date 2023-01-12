@@ -8,7 +8,7 @@
 
 </h4>
 
-Estudante de Análise e desenvolvimento de sistemas, com 9 meses de experiência em estágio na Forttiori IT, onde adquiri conhecimento em MongoDB, SPRING BOOT, Junit 5, API REST e TYPESCRIPT, além de habilidades em desenvolvimento de software utilizando Angular 14 e JAVA 8. Procurando uma oportunidade para aplicar meus conhecimentos e habilidades em um ambiente de trabalho desafiador.
+Estudante de Análise e desenvolvimento de sistemas, com 9 meses de experiência em estágio na Forttiori IT, onde adquiriu conhecimento em MongoDB, SPRING BOOT, Junit 5, API REST e TYPESCRIPT, além de habilidades em desenvolvimento de software utilizando Angular 14 e JAVA 8. 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilabarpp&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilabarpp&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camilabarpp&theme=nord_dark) |
 | :-: | :-: | :-: |
