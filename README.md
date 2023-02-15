@@ -10,8 +10,9 @@
 
 Estudante de Análise e desenvolvimento de sistemas, com 9 meses de experiência em estágio na Forttiori IT, onde adquiriu conhecimento em MongoDB, SPRING BOOT, Junit 5, API REST e TYPESCRIPT, além de habilidades em desenvolvimento de software utilizando Angular 14 e JAVA 8. 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilabarpp&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilabarpp&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=camilabarpp&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilabarpp&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilabarpp&hide=Html&theme=nord_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camilabarpp&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilabarpp&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=camilabarpp&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=camilabarpp&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camilabarpp&theme=nord&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)|
+| :-: | :-: | 
+
