@@ -8,7 +8,23 @@
 
 </h4>
 
-Estudante de Análise e desenvolvimento de sistemas, com 10 meses de experiência em estágio na Forttiori IT, onde adquiriu conhecimento em MongoDB, SPRING BOOT, Junit 5, API REST e TYPESCRIPT, além de habilidades em desenvolvimento de software utilizando Angular 14 e JAVA 8. 
+Olá! Meu nome é Camila, sou uma desenvolvedora de software com experiência:
+
+- Linguagens de programação: Java, NestJS e Angular Framework.
+- API rest.
+- Bancos de dados: MongoDB, PostgreSQL, MySQL, H2 e mongo embedded.
+- Utilização do TypeORM e Hibernate para mapeamento e interação com bancos de dados relacionais.
+- Implementação de validação consistente de dados com o Class Validator e Jakarta bean validation.
+- Desenvolvimento de autenticação segura com JWT (JSON Web Tokens).
+- Desenvolvimento de API REST com Java, utilizando Spring Boot, Spring JPA, Spring Security, Spring MVC e Webflux.
+- Tratamento de erros com ExceptionHandler.
+- Testes unitários com Jest, Cypress, JUnit 5 e Mockito.
+- Front-end: Angular 15, Typescript.
+- Utilização de ngrx e component-store.
+- Versionamento com Git.
+- Controle de tarefas com Gitlab, Jira e GitHub.
+
+Estou aberta a novos desafios e continuo aprendendo e explorando tecnologias atualizadas. Fique à vontade para entrar em contato comigo para oportunidades de colaboração ou para saber mais sobre minhas experiências e habilidades.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilabarpp&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilabarpp&hide=Html&theme=nord_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=camilabarpp&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
