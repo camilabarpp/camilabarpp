@@ -10,15 +10,14 @@
 
 Olá! Meu nome é Camila, sou uma desenvolvedora de software com experiência:
 
-- Linguagens de programação: Java, NestJS e Angular Framework.
-- API rest.
-- Bancos de dados: MongoDB, PostgreSQL, MySQL, H2 e mongo embedded.
+- **Linguagens de programação**: Java, NestJS e Angular Framework.
+- **Bancos de dados**: MongoDB, PostgreSQL, MySQL, H2 e mongo embedded.
 - Utilização do TypeORM e Hibernate para mapeamento e interação com bancos de dados relacionais.
 - Implementação de validação consistente de dados com o Class Validator e Jakarta bean validation.
 - Desenvolvimento de autenticação segura com JWT (JSON Web Tokens).
-- Desenvolvimento de API REST com Java, utilizando Spring Boot, Spring JPA, Spring Security, Spring MVC e Webflux.
+- Desenvolvimento com Spring JPA, Spring Security, Spring MVC e Webflux.
 - Tratamento de erros com ExceptionHandler.
-- Testes unitários com Jest, Cypress, JUnit 5 e Mockito.
+- **Testes unitários** com Jest, Cypress, JUnit 5 e Mockito.
 - Front-end: Angular 15, Typescript.
 - Utilização de ngrx e component-store.
 - Versionamento com Git.
